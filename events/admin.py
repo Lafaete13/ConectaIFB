@@ -3,3 +3,5 @@ from events.models import Event, EventRegistration
 
 
 admin.site.register([Event, EventRegistration])
+
+
